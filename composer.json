@@ -1,0 +1,20 @@
+{
+    "name": "chisom/watch_collection",
+    "description": "watch collection website",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Onyeka Chisom",
+            "email": "splashanthony5@gmail.com"
+        }
+    ],
+    "require": {
+        "robmorgan/phinx": "^0.16.12",
+        "bramus/router": "^1.6"
+    }
+}
