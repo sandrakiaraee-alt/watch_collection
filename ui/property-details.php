@@ -25,11 +25,11 @@
             
             <div class="property-card">
                 <div class="property-card-image">
-                    <img src="./image/pngwing.com (10).png" alt="Classic Fusion 42mm">
+                    <img src="./image/pngwing.com (10).png" alt="Master of G">
                 </div>
                 <div class="property-card-details">
-                    <h3 class="property-card-title">Classic Fusion 42mm</h3>
-                    <p class="property-card-desc">Fusion of materials with sleek styling.</p>
+                    <h3 class="property-card-title">Master of G</h3>
+                    <p class="property-card-desc">Survival-grade sensors </p>
                     <div class="property-card-footer">
                         <span class="property-card-price">$12,000</span>
                         <button class="property-add-btn">Add</button>
@@ -39,11 +39,11 @@
 
             <div class="property-card">
                 <div class="property-card-image">
-                    <img src="./image/pngwing.com (11).png" alt="Big Bang Unico">
+                    <img src="./image/pngwing.com (11).png" alt="G-STEEL">
                 </div>
                 <div class="property-card-details">
-                    <h3 class="property-card-title">Big Bang Unico</h3>
-                    <p class="property-card-desc">Bold skeletonized chronograph.</p>
+                    <h3 class="property-card-title">G-STEEL</h3>
+                    <p class="property-card-desc">Premium metal-clad styling.</p>
                     <div class="property-card-footer">
                         <span class="property-card-price">$18,000</span> 
                         <button class="property-add-btn">Add</button>
@@ -54,11 +54,11 @@
         
             <div class="property-card">
                 <div class="property-card-image">
-                    <img src="./image/pngwing.com (12).png" alt="Spirit of Big Bang">
+                    <img src="./image/pngwing.com (12).png" alt="g-squad">
                 </div>
                 <div class="property-card-details">
-                    <h3 class="property-card-title">Spirit of Big Bang</h3>
-                    <p class="property-card-desc">Tonneau-shaped high-impact design.</p>
+                    <h3 class="property-card-title">G-SQUAD</h3>
+                    <p class="property-card-desc"> Bluetooth fitness tracking.</p>
                     <div class="property-card-footer">
                         <span class="property-card-price">$20,000</span>
                         <button class="property-add-btn">Add</button>
@@ -68,11 +68,11 @@
 
             <div class="property-card">
                 <div class="property-card-image">
-                    <img src="./image/pngwing.com (13).png" alt="Big Bang Sang Bleu">
+                    <img src="./image/pngwing.com (13).png" alt="Full Metal / Origin (5000/5600 Series)">
                 </div>
                 <div class="property-card-details">
-                    <h3 class="property-card-title">Big Bang Sang Bleu</h3>
-                    <p class="property-card-desc">Artistic collaboration with geometric dial.</p>
+                    <h3 class="property-card-title">Full Metal / Origin (5000/5600 Series)</h3>
+                    <p class="property-card-desc"> first G-Shock from 1983, upgraded with modern steel blocks</p>
                     <div class="property-card-footer">
                         <span class="property-card-price">$22,000</span>
                         <button class="property-add-btn">Add</button>
