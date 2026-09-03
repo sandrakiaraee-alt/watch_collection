@@ -9,7 +9,7 @@
 <body class="property-details-body">
 
    <div class="bg-animated-watch">
-        <img src="./Images/pngwing.com (11).png" alt="Watch Background">
+        <img src="./image/pat-taylor-12V36G17IbQ-unsplash.jpg" alt="Watch Background">
     </div>
 
     <div class="property-details-wrapper">
@@ -25,7 +25,7 @@
             
             <div class="property-card">
                 <div class="property-card-image">
-                    <img src="./Images/pngwing.com (11).png" alt="Classic Fusion 42mm">
+                    <img src="./image/pngwing.com (10).png" alt="Classic Fusion 42mm">
                 </div>
                 <div class="property-card-details">
                     <h3 class="property-card-title">Classic Fusion 42mm</h3>
@@ -39,7 +39,7 @@
 
             <div class="property-card">
                 <div class="property-card-image">
-                    <img src="./Images/pngwing.com (10).png" alt="Big Bang Unico">
+                    <img src="./image/pngwing.com (11).png" alt="Big Bang Unico">
                 </div>
                 <div class="property-card-details">
                     <h3 class="property-card-title">Big Bang Unico</h3>
@@ -54,7 +54,7 @@
         
             <div class="property-card">
                 <div class="property-card-image">
-                    <img src="./Images/pngwing.com (9).png" alt="Spirit of Big Bang">
+                    <img src="./image/pngwing.com (12).png" alt="Spirit of Big Bang">
                 </div>
                 <div class="property-card-details">
                     <h3 class="property-card-title">Spirit of Big Bang</h3>
@@ -68,7 +68,7 @@
 
             <div class="property-card">
                 <div class="property-card-image">
-                    <img src="./Images/pngwing.com (6).png" alt="Big Bang Sang Bleu">
+                    <img src="./image/pngwing.com (13).png" alt="Big Bang Sang Bleu">
                 </div>
                 <div class="property-card-details">
                     <h3 class="property-card-title">Big Bang Sang Bleu</h3>
