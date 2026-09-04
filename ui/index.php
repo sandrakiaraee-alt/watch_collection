@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-11">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <title>watch collection</title>
@@ -32,28 +32,29 @@
         </div>
 
     </section>
-    <section>
+    <section class="container">
+        
 
         <div class="first-img">
-            <img src="./Images/pngwing.com (8).png" alt="hamilton">
-            <img src="./Images/pngwing.com (8).png" alt="watch">
-            <img src="./Images/pngwing.com (8).png" alt="senken">
-            <img src="./Images/pngwing.com (8).png" alt="omega">
-            <img src="./Images/pngwing.com (8).png" alt="cartier">
-            <img src="./Images/pngwing.com (8).png" alt="U-boat">
-            <img src="./Images/pngwing.com (8).png" alt="G-shock">
-            <img src="./images/pngwing.com (8).png" alt="apple-watch">
+            <img src="./Images/pngwing.com (11).png" alt="hamilton">
+            <img src="./Images/pngwing.com (10).png" alt="watch">
+            <img src="./Images/pngwing.com (9).png" alt="senken">
+            <img src="./Images/pngwing.com (10).png" alt="omega">
+            <img src="./Images/pngwing.com (6).png" alt="cartier">
+            <img src="./Images/pngwing.com (11).png" alt="U-boat">
+            <img src="./Images/pngwing.com (10).png" alt="G-shock">
+            <img src="./images/pngwing.com (9).png" alt="apple-watch">
         </div>
 
         <div class="second-img">
-            <img src="./Images/pngwing.com (8).png" alt="hamilton">
-            <img src="./Images/pngwing.com (8).png" alt="watch">
-            <img src="./Images/pngwing.com (8).png" alt="senken">
-            <img src="./Images/pngwing.com (8).png" alt="omega">
-            <img src="./Images/pngwing.com (8).png" alt="cartier">
-            <img src="./Images/pngwing.com (8).png" alt="U-boat">
-            <img src="./Images/pngwing.com (8).png" alt="G-shock">
-            <img src="./images/pngwing.com (8).png" alt="apple-watch">
+            <img src="./Images/pngwing.com (10).png" alt="hamilton">
+            <img src="./Images/pngwing.com (14).png" alt="watch">
+            <img src="./Images/pngwing.com (11).png" alt="senken">
+            <img src="./Images/pngwing.com (9).png" alt="omega">
+            <img src="./Images/pngwing.com (10).png" alt="cartier">
+            <img src="./Images/pngwing.com (6).png" alt="U-boat">
+            <img src="./Images/pngwing.com (14).png" alt="G-shock">
+            <img src="./images/pngwing.com (11).png" alt="apple-watch">
 
         </div>
         </div>

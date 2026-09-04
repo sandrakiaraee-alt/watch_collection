@@ -42,12 +42,16 @@
     grid-template-columns: repeat(8, 1fr);
     gap: 10px;
     padding: 0.8rem 0px;
+    animation: moveRight 6s linear infinite alternate;     ;
 
 }
 
 .first-img>img {
     width: 100%;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);
+    box-shadow: 6px 0 12px -10px rgba(0, 0, 0, 0.18),
+        -6px 0 12px -10px rgba(0, 0, 0, 0.18);
+
+
 }
 
 .second-img {
@@ -55,10 +59,41 @@
     grid-template-columns: repeat(8, 1fr);
     gap: 10px;
     padding: 0.8rem 0px;
+    animation: moveLeft 6s linear infinite alternate;                                                                                                                                                                                              
+    /* box-shadow: 10px 0 15px -10px rgba(0, 0, 0, 0.3),
+        -10px 0 15px -10px rgba(0, 0, 0, 0.3); */
+
 }
 
-.second-img>img{
+
+.second-img>img {
     width: 100%;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);
-    
+
+    box-shadow: 6px 0 12px -10px rgba(0, 0, 0, 0.18),
+        -6px 0 12px -10px rgba(0, 0, 0, 0.18);
+
+}
+
+.container{
+    overflow: hidden;
+}
+
+@keyframes moveRight {
+    from {
+        transform: translateX(-30px);
+    }
+
+    to {
+        transform: translateX(30px);
+    }
+}
+
+@keyframes moveLeft {
+    from {
+        transform: translateX(30px);
+    }
+
+    to {
+        transform: translateX(-30px);
+    }
 }
