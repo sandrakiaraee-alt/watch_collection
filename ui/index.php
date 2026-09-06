@@ -2,16 +2,49 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-11">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/69c405441a.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="style.css">
-    <title>watch collection</title>
+    <title>Watch Collection</title>
 </head>
 
 <body>
+
+
+    <section class="head">
+        <header class="pg-head">
+
+
+            <div class="logo">
+                <h1>ZEITH</h1>
+            </div>
+
+
+            <div class="search-container">
+                <span class="search-icon">⌕</span>
+
+                <input
+                    type="search"
+                    name="search"
+                    class="search-bar"
+                    placeholder="Search products, brands and categories">
+
+                <button class="search-btn">Search</button>
+            </div>
+            <nav class="nav-bar">
+                <a href="#">About us</a>
+                <a href="#">Contact Us</a>
+                <a href="#">Cart</a>
+            </nav>
+
+        </header>
+    </section>
+
     <section class="hero">
 
         <div class="hero-text">
+
             <p>NEW PRODUCT</p>
 
             <h1>
@@ -24,8 +57,14 @@
                 for style and precision.
             </p>
 
-            <a href="http://google.com"><button class="product-btn">SEE PRODUCT</button></a>
+            <a href="http://google.com">
+                <button class="product-btn">
+                    SEE PRODUCT
+                </button>
+            </a>
+
         </div>
+
 
         <div class="hero-image">
             <img src="./Images/watch.png" alt="Premium Watch">
@@ -33,9 +72,8 @@
 
     </section>
     <section class="container">
-        
-
         <div class="first-img">
+
             <img src="./Images/pngwing.com (11).png" alt="hamilton">
             <img src="./Images/pngwing.com (10).png" alt="watch">
             <img src="./Images/pngwing.com (9).png" alt="senken">
@@ -43,10 +81,12 @@
             <img src="./Images/pngwing.com (6).png" alt="cartier">
             <img src="./Images/pngwing.com (11).png" alt="U-boat">
             <img src="./Images/pngwing.com (10).png" alt="G-shock">
-            <img src="./images/pngwing.com (9).png" alt="apple-watch">
+            <img src="./Images/pngwing.com (9).png" alt="apple-watch">
+
         </div>
 
         <div class="second-img">
+
             <img src="./Images/pngwing.com (10).png" alt="hamilton">
             <img src="./Images/pngwing.com (14).png" alt="watch">
             <img src="./Images/pngwing.com (11).png" alt="senken">
@@ -54,10 +94,10 @@
             <img src="./Images/pngwing.com (10).png" alt="cartier">
             <img src="./Images/pngwing.com (6).png" alt="U-boat">
             <img src="./Images/pngwing.com (14).png" alt="G-shock">
-            <img src="./images/pngwing.com (11).png" alt="apple-watch">
+            <img src="./Images/pngwing.com (11).png" alt="apple-watch">
 
         </div>
-        </div>
+
     </section>
 
 </body>
