@@ -69,7 +69,13 @@
         <div class="hero-image">
             <img src="./Images/watch.png" alt="Premium Watch">
         </div>
+    </section>
 
+    <section class="new-arrivals">
+        <h1>New Arrivals</h1>
+        <div class="new">
+            <img src="./Images/pngwing.com (11).png" alt="A watch">
+        </div>
     </section>
     <section class="container">
         <div class="first-img">
