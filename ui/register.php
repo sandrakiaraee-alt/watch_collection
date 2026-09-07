@@ -9,6 +9,15 @@
 </head>
 
 <body>
+    <!-- Background Video -->
+    <video autoplay muted loop playsinline id="bg-video">
+        <source src="./video/property-details-background-video.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <!-- Optional Dark Overlay to improve card contrast -->
+    <div class="video-overlay"></div>
+
     <div class="register-container">
         <div class="register-card">
             <h1 class="register-title">Zeith</h1>
