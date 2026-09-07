@@ -33,9 +33,18 @@
                 <button class="search-btn">Search</button>
             </div>
             <nav class="nav-bar">
-                <a href="#">About us</a>
-                <a href="#">Contact Us</a>
-                <a href="#">Cart</a>
+                <div class="span">
+                    <span><i class="fa-solid fa-circle-info icon"></i></span><a href="#">About us</a>
+                </div>
+                <div class="span">
+                    <span><i class="fa-solid fa-phone icon"></i></span><a href="#">Contact Us</a>
+                </div>
+                <div class="span">
+                    <span><i class="fa-solid fa-cart-shopping icon"></i></span> <a href="#">Cart</a>
+                </div>
+                <div class="span">
+                    <span><i class="fa-solid fa-circle-user icon"></i></span><a href="#">Register Here</a>
+                </div>
             </nav>
 
         </header>
@@ -74,7 +83,12 @@
     <section class="new-arrivals">
         <h1>New Arrivals</h1>
         <div class="new">
+            <img src="./Images/pngwing.com (3).png" alt="A watch">
             <img src="./Images/pngwing.com (11).png" alt="A watch">
+            <img src="./Images/pngwing.com (6).png" alt="A watch">
+            <img src="./Images/pngwing.com (9).png" alt="A watch"><span>ROLEX
+                <p>10,000dollsrs</p>
+            </span>
         </div>
     </section>
     <section class="container">
