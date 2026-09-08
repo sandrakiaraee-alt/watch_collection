@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./style.css">
-    <title>login</title>
+    <title>login - Zeith</title>
 </head>
 
 <body>
@@ -29,7 +29,7 @@
                 <div>
                     <div class="login-password">
                         <label class="login-label">Password</label>
-                        <a href="#" class="login-forgot-password">Forgot Password?</a>
+                        <a href="./forgot-password.php" class="login-forgot-password">Forgot Password?</a>
                     </div>
                     <input type="password" class="login-input">
                 </div>
