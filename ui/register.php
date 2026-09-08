@@ -38,7 +38,7 @@
 
                 <div>
                     <label class="register-label">Email address</label>
-                    <input type="email" name="email" placeholder="chibuikemnweze2020@gmail.com" class="register-input">
+                    <input type="email" name="email" placeholder="youremail@gmail.com" class="register-input">
                 </div>
 
                 <div>

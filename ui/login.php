@@ -4,11 +4,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./style.css">
     <title>login</title>
 </head>
 
 <body>
+    <video autoplay muted loop playsinline id="bg-video">
+        <source src="./video/property-details-background-video.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <!-- Optional Dark Overlay to improve card contrast -->
+    <div class="video-overlay"></div>
     <div class="login-container">
         <div class="login-card">
             <h2 class="login-title">Welcome back</h2>
