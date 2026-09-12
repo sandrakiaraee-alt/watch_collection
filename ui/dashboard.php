@@ -9,6 +9,7 @@
         crossorigin="anonymous"></script>
 
     <link rel="stylesheet" href="dashboard.css">
+    <link rel="stylesheet" href="footer.css">
 
     <title>ZEITH | Dashboard</title>
 </head>
@@ -458,7 +459,7 @@
         </section>
 
     </main>
-
+    <?php include 'footer.php'; ?>
 </body>
 
 </html>

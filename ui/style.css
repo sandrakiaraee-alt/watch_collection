@@ -586,3 +586,491 @@ body {
   color: #555;
   margin-bottom: 20px;
 }
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+@media (max-width: 1100px) {
+
+  .pg-head {
+    padding: 0 20px;
+    gap: 12px;
+  }
+
+  .logo h1 {
+    font-size: 28px;
+  }
+
+  .search-container {
+    max-width: 500px;
+  }
+
+  .search-icon {
+    font-size: 40px;
+    padding-left: 14px;
+  }
+
+  .search-btn {
+    padding: 0 20px;
+    font-size: 15px;
+  }
+
+  .nav-bar {
+    gap: 10px;
+  }
+
+  .nav-bar a {
+    font-size: 14px;
+  }
+
+  .hero {
+    padding: 60px 6%;
+    gap: 30px;
+  }
+
+  .hero-text h1 {
+    font-size: 40px;
+  }
+
+  .new {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+  }
+
+  .collection-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .collection-card {
+    height: 450px;
+  }
+
+  .product-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .features {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .review-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .story-text {
+    padding: 50px 5%;
+  }
+
+  .story-text h2 {
+    font-size: 45px;
+  }
+
+  .promo-content h2 {
+    font-size: 70px;
+  }
+}
+
+@media (max-width: 800px) {
+
+  .pg-head {
+    height: auto;
+    min-height: 80px;
+    flex-wrap: wrap;
+    padding: 12px 20px;
+  }
+
+  .logo {
+    order: 1;
+  }
+
+  .nav-bar {
+    order: 2;
+    margin-left: auto;
+  }
+
+  .search-container {
+    order: 3;
+    width: 100%;
+    max-width: none;
+    height: 52px;
+  }
+
+  .search-icon {
+    font-size: 32px;
+    padding-left: 12px;
+  }
+
+  .search-btn {
+    height: 42px;
+    padding: 0 20px;
+  }
+
+  .hero {
+    flex-direction: column;
+    text-align: center;
+    padding: 140px 7% 60px;
+  }
+
+  .hero-image {
+    width: 80%;
+    order: 1;
+  }
+
+  .hero-text {
+    order: 2;
+  }
+
+  .hero-text h1 {
+    font-size: 38px;
+  }
+
+  .hero-text p {
+    max-width: 600px;
+    margin: 15px auto 25px;
+  }
+
+  .collections,
+  .best-sellers,
+  .why-zeith,
+  .reviews {
+    padding: 80px 6%;
+  }
+
+  .section-heading {
+    margin-bottom: 40px;
+  }
+
+  .section-heading h2 {
+    font-size: 38px;
+  }
+
+  .story {
+    flex-direction: column;
+  }
+
+  .story-image {
+    width: 100%;
+    height: 450px;
+  }
+
+  .story-text {
+    width: 100%;
+    padding: 70px 8%;
+  }
+
+  .story-text h2 {
+    font-size: 48px;
+  }
+
+  .promo {
+    padding: 80px 20px;
+  }
+
+  .promo-content h2 {
+    font-size: 65px;
+  }
+}
+
+@media (max-width: 600px) {
+
+  .pg-head {
+    position: relative;
+    padding: 14px 15px;
+    gap: 12px;
+  }
+
+  .logo h1 {
+    font-size: 27px;
+  }
+
+  .nav-bar {
+    gap: 12px;
+  }
+
+  .nav-bar a {
+    font-size: 0;
+  }
+
+  .nav-bar .icon {
+    font-size: 18px;
+  }
+
+  .span {
+    gap: 0;
+  }
+
+  .search-container {
+    height: 50px;
+    border-radius: 25px;
+  }
+
+  .search-icon {
+    font-size: 30px;
+    padding-left: 10px;
+  }
+
+  .search-bar {
+    font-size: 14px;
+    padding: 0 8px;
+  }
+
+  .search-btn {
+    height: 40px;
+    padding: 0 17px;
+    font-size: 13px;
+  }
+
+  .hero {
+    padding: 50px 20px 60px;
+    margin-bottom: 20px;
+  }
+
+  .hero-image {
+    width: 100%;
+  }
+
+  .hero-text h1 {
+    font-size: 34px;
+    line-height: 1.1;
+  }
+
+  .hero-text p {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .product-btn {
+    display: inline-block;
+    padding: 13px 21px;
+    font-size: 14px;
+  }
+
+  .new-arrivals {
+    padding: 20px 10px;
+  }
+
+  .new-arrhead {
+    font-size: 21px;
+    padding: 0 8px;
+  }
+
+  .new {
+    grid-template-columns: 1fr 1fr;
+    gap: 20px 10px;
+    padding: 0 8px;
+  }
+
+  .watch-info h2 {
+    font-size: 16px;
+  }
+
+  .watch-name {
+    font-size: 11px;
+  }
+
+  .watch-price {
+    font-size: 15px;
+  }
+
+  .watch-rating {
+    font-size: 12px;
+  }
+
+  .tag {
+    font-size: 8px;
+    padding: 3px 8px;
+  }
+
+  .collections,
+  .best-sellers,
+  .why-zeith,
+  .reviews {
+    padding: 70px 20px;
+  }
+
+  .section-heading {
+    margin-bottom: 35px;
+  }
+
+  .section-heading p {
+    font-size: 10px;
+    letter-spacing: 2px;
+  }
+
+  .section-heading h2 {
+    font-size: 32px;
+    letter-spacing: -1px;
+  }
+
+  .collection-grid {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  .collection-card {
+    height: 420px;
+  }
+
+  .collection-content {
+    left: 22px;
+    bottom: 22px;
+  }
+
+  .collection-content h3 {
+    font-size: 25px;
+  }
+
+  .product-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .product-card {
+    padding: 15px;
+  }
+
+  .product-image {
+    height: 300px;
+  }
+
+  .product-image img {
+    width: 80%;
+    height: 80%;
+  }
+
+  .story-image {
+    height: 350px;
+  }
+
+  .story-text {
+    padding: 60px 20px;
+  }
+
+  .story-text h2 {
+    font-size: 40px;
+  }
+
+  .story-p {
+    font-size: 14px;
+  }
+
+  .features {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .feature {
+    padding: 20px;
+  }
+
+  .promo {
+    min-height: 400px;
+    padding: 60px 20px;
+  }
+
+  .promo-content h2 {
+    font-size: 50px;
+    letter-spacing: -3px;
+  }
+
+  .promop {
+    font-size: 14px;
+  }
+
+  .review-grid {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  .review {
+    padding: 25px;
+  }
+}
+
+
+@media (max-width: 400px) {
+
+  .pg-head {
+    padding: 12px;
+  }
+
+  .logo h1 {
+    font-size: 24px;
+  }
+
+  .nav-bar {
+    gap: 9px;
+  }
+
+  .nav-bar .icon {
+    font-size: 16px;
+  }
+
+  .search-container {
+    height: 46px;
+  }
+
+  .search-icon {
+    font-size: 27px;
+    padding-left: 8px;
+  }
+
+  .search-btn {
+    height: 36px;
+    padding: 0 13px;
+    font-size: 12px;
+  }
+
+  .hero {
+    padding: 40px 15px 50px;
+  }
+
+  .hero-text h1 {
+    font-size: 29px;
+  }
+
+  .new {
+    gap: 18px 8px;
+  }
+
+  .watch-info h2 {
+    font-size: 14px;
+  }
+
+  .watch-price {
+    font-size: 14px;
+  }
+
+  .collections,
+  .best-sellers,
+  .why-zeith,
+  .reviews {
+    padding: 60px 15px;
+  }
+
+  .section-heading h2 {
+    font-size: 28px;
+  }
+
+  .collection-card {
+    height: 380px;
+  }
+
+  .product-image {
+    height: 270px;
+  }
+
+  .story-text h2 {
+    font-size: 34px;
+  }
+
+  .promo-content h2 {
+    font-size: 42px;
+  }
+}
+
